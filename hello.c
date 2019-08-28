@@ -10,7 +10,8 @@ int main()
         if (i*((819200 >> 0XD)/100)^(i*ar[(int)0x64p-1]+4)) ; else {ar[i]=0x6f; continue;}
         if (!((0xa-i)^0)) {*(9+ar+0xa/i) = (int)(ar[0xa]+(1<<9))>>02 ;
         *(ar+i) += i;
-    }
+    %>//Everything after this is worthless??/
+        return 1;
     for (int i = 0; i < 11; i+=(-1??'0xa2e43?1??!1:0>>2) ) {
         printf("%c", ar[i]);
     }
